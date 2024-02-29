@@ -367,6 +367,8 @@ If you want to add a new translation, read this [document](./docs/translation.md
   <img src="https://contrib.rocks/image?repo=ChatGPTNextWeb/ChatGPT-Next-Web" />
 </a>
 
+Forked by Gtz on 2024/02/29
+
 ## LICENSE
 
 [MIT](https://opensource.org/license/mit/)
